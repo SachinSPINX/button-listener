@@ -14,7 +14,7 @@ window.dataLayer = window.dataLayer || [];
     });
 });
 
-//
+//button click listener 
 
 ---------------------------------------------------------------------------------
 document.querySelector('.btn-seo-contact1').addEventListener('click', function() {
